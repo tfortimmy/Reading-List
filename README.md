@@ -1,6 +1,6 @@
 ##
 
-# Timmy Reading List
+# Timmy Reading/Watching/Listening List
 
 ## Top Picks
 If you just want a quick take away here are my top recommendations:
