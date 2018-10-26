@@ -4,11 +4,11 @@
 
 ## Top Picks
 If you just want a quick take away here are my top recommendations:
-...1. [Data Machina](https://www.getrevue.co/profile/datamachina)
-...2. [Exponential View](http://www.exponentialview.co/)
-...3. [Ben Thompson: Stratechery](https://stratechery.com/)
-...4. [Wait But Why](https://waitbutwhy.com/)
-...5. [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+1. [Data Machina](https://www.getrevue.co/profile/datamachina)
+2. [Exponential View](http://www.exponentialview.co/)
+3. [Ben Thompson: Stratechery](https://stratechery.com/)
+4. [Wait But Why](https://waitbutwhy.com/)
+5. [Two Minute Papers](https://www.youtube.com/user/keeroyz)
 
 ## Newsletters
 
