@@ -2,8 +2,11 @@
 
 ## Top Picks
 If you just want a quick take away here are my top recommendations:
+1. [Amplify: Projects to Know](https://projectstoknow.amplifypartners.com/ml-and-data)
+1. [Another Podcast](https://podcasts.apple.com/us/podcast/another-podcast/id1535359773)
 1. [Ben Thompson: Stratechery](https://stratechery.com/)
-1. [Data Science Round Up](http://roundup.fishtownanalytics.com/)
+1. [Analytics Engineering Round Up](http://roundup.fishtownanalytics.com/)
+1. [Acquired Podcast](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp?si=0bdc04cbdd7c4ee1)
 1. [Exponential View](http://www.exponentialview.co/)
 1. [Wait But Why](https://waitbutwhy.com/)
 1. [Two Minute Papers](https://www.youtube.com/user/keeroyz)
@@ -13,11 +16,14 @@ If you just want a quick take away here are my top recommendations:
 ### Technical
 These are a nice assortment of what is going on in AI and Machine Learning around the world. 
 
+#### [Amplify: Projects to Know](https://projectstoknow.amplifypartners.com/ml-and-data)
+Each week it provides three papers, three projects and three articles around ML & data. In general it gives some of the best overviews of what is happening 
+
 #### [Artificial Intelligence Weekly](http://aiweekly.co)
 A nicely presented minimal curated list of articles, that are not overly technical about AI and the effects it can have on society.
 
-#### [Data Science Roundup](http://roundup.fishtownanalytics.com/)
-By Tristan Handy, this newsletter is one of my favourites. It covers all things data with small personal comments here and there. Would highly recommend.
+#### [Analytics Engineering Roundup](http://roundup.fishtownanalytics.com/)
+By Tristan Handy, the creator of DBT, this newsletter is one of my favourites. It covers all things data with small personal comments here and there. Would highly recommend.
 
 #### [Data Science Weekly](https://us3.campaign-archive.com/home/?u=71a2b2a38789d4d25b738462f&id=b63d6b814f)
 Despite the horrific layout this newsletter is a great curated list of articles, videos and training resources around the topic of DS. It also seems to be slightly ahead of the curve in regards to picking up articles before other newsletters.
@@ -46,6 +52,11 @@ I love this one so much so that it has become one of my must reads since I subsc
 #### [Benedict Evans](https://www.ben-evans.com/newsletter)
 From a guy who used to work at a16z who covers the changing landscape in tech from a fairly unique perspective. Similarish to stratechery.
 
+His podcast Another Podcast is my favourite about atm.
+
+#### [Thoughts in Between](https://podcasts.apple.com/us/podcast/thoughts-in-between-exploring-how-technology-collides/id1547838601)
+This guy runs an incubator of sorts and has some really great thoughts more on the societal and political side of things. Well worth a read.
+
 #### [Julie Zhuo: The Looking Glass](http://juliezhuo.com/design/mailinglist.html)
 
 #### [Wait But Why](https://waitbutwhy.com/)
@@ -70,6 +81,15 @@ This channel does some of the best explanations of processes on the internet. Th
 A very high level coverage of what is happening in tech and AI. Really well editted.
 
 ## Podcasts
+
+#### [Another Podcast](https://podcasts.apple.com/us/podcast/another-podcast/id1535359773)
+My favourite podcast by some margin. Goes over the trends in tech and society from a fairly unique approach. They don't tend to come to too many conclusions but more talk around the topic which I really appreciate.
+
+#### [Acquired Podcast](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp?si=0bdc04cbdd7c4ee1)
+Mammoth episodes but well worth the time. Goes in depth in the story and methods of hugely successful companies.
+
+#### [The Data Exchange](https://open.spotify.com/show/65oFWYoomwT8mLcdGkUGd0?si=d3b4b237c8d44073)
+Has some really great guests from around the data space. Really good overviews of what is going on and how people are trying to improve the data experience.
 
 #### [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
 #### [This Week in Machine Learning](https://twimlai.com)
